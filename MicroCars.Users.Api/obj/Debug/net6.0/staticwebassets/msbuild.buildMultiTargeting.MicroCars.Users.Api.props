@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroCars.Users.Api.props" />
+</Project>

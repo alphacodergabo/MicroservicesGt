@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ayWDza1qpuAfhr6JkWHhdfjupJSsEm/b7GhRfG1hvZk=",
+  "Source": "MicroCars.Cars.Api",
+  "BasePath": "_content/MicroCars.Cars.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

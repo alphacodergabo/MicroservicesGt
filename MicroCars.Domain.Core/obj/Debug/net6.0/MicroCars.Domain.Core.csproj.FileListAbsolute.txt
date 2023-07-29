@@ -1,0 +1,12 @@
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\bin\Debug\net6.0\MicroCars.Domain.Core.deps.json
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\bin\Debug\net6.0\MicroCars.Domain.Core.dll
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\bin\Debug\net6.0\MicroCars.Domain.Core.pdb
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.csproj.AssemblyReference.cache
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.AssemblyInfoInputs.cache
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.AssemblyInfo.cs
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.csproj.CoreCompileInputs.cache
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.dll
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\refint\MicroCars.Domain.Core.dll
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\MicroCars.Domain.Core.pdb
+E:\prueba Tecnica\Resolucion\Microservicios\MicroCars.Domain.Core\obj\Debug\net6.0\ref\MicroCars.Domain.Core.dll

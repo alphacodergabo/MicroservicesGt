@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5cdLWN4XwfFkgMcgBJA3rJ9QRpaqUpCaYFBOnMqQgr+oTMSUngvbBTqsGQTsbJSuKzjkVThlv4PedAZLzpQbQ==",
+  "success": true,
+  "projectFilePath": "E:\\prueba Tecnica\\Resolucion\\Microservicios\\MicroCars.Cars.Domain\\MicroCars.Cars.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabo9\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\gabo9\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
