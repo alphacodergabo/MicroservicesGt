@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  microcars.cars.api:
+    image: ${DOCKER_REGISTRY-}microcarscarsapi
+    build:
+      context: .
+      dockerfile: MicroCars.Cars.Api/Dockerfile
+  microcars.users.api:
+    image: ${DOCKER_REGISTRY-}microcarsusersapi
+    build:
+      context: .
+      dockerfile: MicroCars.Users.Api/Dockerfile
+
+networks:
+  default:
+    external:
+        name: microservicenet
+

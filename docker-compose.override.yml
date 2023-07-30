@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  microcars.cars.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "6105:80"
+
+  microcars.users.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Services__CarsForRent=http://MicroCars.Cars.Api
+    ports:
+      - "6104:80"
+

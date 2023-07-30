@@ -29,6 +29,7 @@ namespace MicroCars.User.Application.Test
         }
 
         // Este test se ejecutaría sobre una uri desplegada
+        //Infraestructura
         [Fact]
         public async void CallMicroService()
         {
